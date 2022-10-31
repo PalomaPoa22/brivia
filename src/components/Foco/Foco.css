@@ -1,12 +1,11 @@
-.section-foco{
+.section-foco {
   background: #f8f8f8;
-
 }
 .container {
   width: 100%;
 }
 
-.container-foco h2{
+.container-foco h2 {
   width: 100%;
   max-width: 80%;
   margin: 0 auto;
@@ -20,23 +19,19 @@
   padding-left: 100px;
   padding-bottom: 20px;
 }
-.img-group{
+.img-group {
   display: flex;
   justify-content: center;
   width: 100%;
   box-sizing: border-box;
 }
 
-
-
-
-
 @media (max-width: 800px) {
   .container-foco {
     padding: 0px;
   }
-  .container-foco h2{
-    padding: 79px 0px; 
+  .container-foco h2 {
+    padding: 79px 0px;
   }
   .container p {
     padding: 10px;

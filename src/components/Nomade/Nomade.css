@@ -1,32 +1,30 @@
 .container {
-    width: 100%;
-    /* background: #f8f8f8; */
-  }
-  
-  .container-cultura h2{
-    width: 100%;
-    max-width: 80%;
-    margin: 0 auto;
-    padding: 79px 30px;
-    box-sizing: border-box;
+  width: 100%;
+}
+
+.container-cultura h2 {
+  width: 100%;
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 79px 30px;
+  box-sizing: border-box;
 }
 
 .container p {
-      text-align: justify;
-    padding-left: 100px;
+  text-align: justify;
+  padding-left: 100px;
+  padding-bottom: 20px;
+}
+@media (max-width: 800px) {
+  .container-cultura {
+    padding: 0px;
+  }
+  .container p {
+    padding: 10px;
     padding-bottom: 20px;
+    text-align: justify;
   }
-  @media (max-width: 800px) {
-    .container-cultura {
-      padding: 0px;
-    }
-    .container p {
-      padding: 10px;
-      padding-bottom: 20px;
-      text-align: justify;
-    }
-    .container-cultura h2{
-      padding: 79px 0px; 
-    }
+  .container-cultura h2 {
+    padding: 79px 0px;
   }
-  
+}

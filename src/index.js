@@ -5,7 +5,7 @@ import Home from "./pages/Home/Home";
 import Lista from "./pages/Lista/Lista";
 import Editar from "./pages/Editar/Editar";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
+import Footer from './components/Footer/Footer2'
 import Adicionar from "./pages/Adicionar/Adicionar";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -18,6 +18,6 @@ root.render(
       <Route path="/editar/:id" element={<Editar />} />
       <Route path="/adicionar/" element={<Adicionar />} />
     </Routes>
-  
+  <Footer/>
   </BrowserRouter>
 );

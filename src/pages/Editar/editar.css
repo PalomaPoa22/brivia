@@ -14,19 +14,10 @@
   margin: "0 auto";
 }
 
-.menu{
-  background: #17305A;
-  color: #fff;
-  padding: 10px;
-  border-radius: 8px;
 
-}
-.menu-top{
-  background: #17305A;
-  color: #fff;
-  padding: 10px;
-  border-radius: 8px;
-  margin: 10px;
+.menu-top{  
+  color: rgb(12, 46, 183);  
+ 
 }
 
 .labelForm {
@@ -96,8 +87,7 @@ margin: 0 auto;
   color: red;
 }
 strong{
-  /* margin: 0; */
-  padding: 5px 0;
+   padding: 5px 0;
 }
 @media(min-width:680px){
   .btn{   

@@ -6,7 +6,7 @@
       "username": "Bret",
       "email": "Sincere@april.biz",
       "phone": "(51) 99999-9999",
-      "website": "hildegard.org"
+      "website": "https://www.hildegard.org"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
       "phone": "(51) 99999-9999",
-      "website": "anastasia.net"
+      "website": "https://www.anastasia.net"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
       "phone": "(51) 99999-9999",
-      "website": "ramiro.info"
+      "website": "https://www.ramiro.info"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
       "phone": "(51) 99999-9999",
-      "website": "kale.biz"
+      "website": "https://www.kale.biz"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "username": "Kamren",
       "email": "Lucio_Hettinger@annie.ca",
       "phone": "(51) 99999-9999",
-      "website": "demarco.info"
+      "website": "https://www.demarco.info"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "username": "Leopoldo",
       "email": "Karley_Dach@jasper.info",
       "phone": "(51) 99999-9999",
-      "website": "ola.org"
+      "website": "https://www.ola.org"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "username": "Elwyn.Skiles",
       "email": "Telly.Hoeger@billy.biz",
       "phone": "(51) 99999-9999",
-      "website": "elvis.io"
+      "website": "https://www.elvis.io"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "username": "Maxime_Nienow",
       "email": "Sherwood@rosamond.me",
       "phone": "(51) 99999-9999",
-      "website": "jacynthe.com"
+      "website": "https://www.jacynthe.com"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "username": "Delphine",
       "email": "Chaim_McDermott@dana.io",
       "phone": "(51) 99999-9999",
-      "website": "conrad.com"
+      "website": "https://www.conrad.com"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "username": "Moriah.Stanton",
       "email": "Rey.Padberg@karina.biz",
       "phone": "(51) 99999-9999",
-      "website": "ambrose.net"
+      "website": "https://www.ambrose.net"
     }
   ]
 }

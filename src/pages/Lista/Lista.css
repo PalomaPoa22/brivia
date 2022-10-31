@@ -13,7 +13,7 @@
 }
 
 .container-label{
-    background: #E6F2FC;
+   
     border-radius: 4px;
     max-width: 832px;    
     padding: 18px 16px;
@@ -32,14 +32,13 @@
     font-size: 15px;
 }
 
-.menu{
-    background: #17305A;
-    color: #fff;
-    /* padding: 10px; */
-    border-radius: 8px;
-    text-align: end;
-    justify-content: left;
-    justify-items: end;
+.menu{  
+    color: rgb(10, 32, 140);
+ margin-left: 5px,
+  }
+  .btn-group{
+    display: flex;
+    justify-content: flex-end;
   }
 @media(max-width:384px){
     .title{
