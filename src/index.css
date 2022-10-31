@@ -1,0 +1,61 @@
+body{
+    max-width: 1350px;
+    margin: 0 auto
+}
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap");
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  justify-content: center;
+  justify-items: center;
+  text-align: left;
+ 
+}
+.container-ac2 ,
+.container-cultura p ,
+.container-foco p{
+  text-align: justify;
+ 
+}
+.container-foco {
+  
+  background: #f8f8f8;
+ 
+}
+.container-foco h2,.container-cultura h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 22px; 
+  text-align: left; 
+}
+.img-foco {
+  padding-left: 35px;
+}
+.group-fotos{
+display: flex;
+flex-direction: row;
+width: 50%;
+
+}
+.gruop-fotos-2{
+  width: 100%;
+
+}
+
+.container-footer{
+  background-image: url('./img/bgfooter.svg');
+  height: 250px;
+  color: #f5f5f5;
+}

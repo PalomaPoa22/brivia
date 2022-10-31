@@ -1,0 +1,47 @@
+.banner{
+    width: 100%;
+    text-align: center;
+    background: url(../../img/banner.png) no-repeat center top;
+    padding: 60px 0 120px;
+    position: relative;
+    box-sizing: border-box;
+}
+.banner .lk-acesse{
+    position: absolute;
+    top: 100px;
+    right: 50px;
+}
+.banner-mobile{
+    display: none;
+}
+.lk-acesse-mobile{
+    display: none;
+}
+@media (max-width: 705px)
+{
+    .lk-acesse{
+        display: none;
+    }
+    .banner{
+        text-align: left;
+        padding: 30px 30px 20px;
+        background: none;
+    }
+    .banner img{
+        width: 70px;
+    }
+    .banner-mobile{
+        display: block;
+    }
+    .banner-mobile img{
+        width: 100%;
+    }
+    
+    .banner .lk-acesse-mobile{
+       display: inline;
+        position: absolute;
+        top: 30px;
+        right: 30px;
+        
+    }
+}
